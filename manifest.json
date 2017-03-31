@@ -1,0 +1,18 @@
+{
+  "name": "Pdf_pr",
+  "platform": "HTML",
+  "version": "2.3",
+  "wabVersion": "2.3",
+  "author": "",
+  "description": "",
+  "copyright": "2017",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "inPanel": true,
+    "hasLocale": true,
+    "hasStyle": true,
+    "hasConfig": true,
+    "hasUIFile": true,
+    "supportMultiInstance": false
+  }
+}
